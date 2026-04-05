@@ -30,6 +30,6 @@ To build a simple AI system that can generate realistic images from textual desc
 
 ## 💻 Code Example
 ```python
-prompt = "A futuristic AI robot in a cyberpunk city"
+prompt = "A beautiful girl in anime style"
 image = pipe(prompt).images[0]
 image
